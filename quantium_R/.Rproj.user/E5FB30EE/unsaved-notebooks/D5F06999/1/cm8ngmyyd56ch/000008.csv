@@ -1,0 +1,3 @@
+"0","productWords <- data.table(unlist(strsplit(unique(QVI_transaction_data$PROD_NAME), """
+"0",""")))"
+"0","setnames(productWords, 'words')"

@@ -1,0 +1,32 @@
+{
+    "id": "ABD2B255",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1606433605317.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "expression": "QVI_purchase_behaviour",
+        "caption": "QVI_purchase_behaviour",
+        "totalObservations": 72637,
+        "displayedObservations": 72637,
+        "variables": 3,
+        "cacheKey": "1739A722",
+        "object": "QVI_purchase_behaviour",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=QVI_purchase_behaviour&cache_key=1739A722&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7596291786896338028,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606433605317,
+    "read_only": false,
+    "read_only_alternatives": []
+}

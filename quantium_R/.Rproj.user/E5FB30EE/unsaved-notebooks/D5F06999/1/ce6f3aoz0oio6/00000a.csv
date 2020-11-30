@@ -1,0 +1,2 @@
+"0","productWords[, SALSA := grepl(""salsa"", tolower(words))]"
+"0","productWords <-productWords[SALSA == FALSE, ][, SALSA := NULL]"

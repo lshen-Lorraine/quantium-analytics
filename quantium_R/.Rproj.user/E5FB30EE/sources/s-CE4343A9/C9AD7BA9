@@ -1,0 +1,32 @@
+{
+    "id": "C9AD7BA9",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1606433611518.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "expression": "QVI_transaction_data",
+        "caption": "QVI_transaction_data",
+        "totalObservations": 264836,
+        "displayedObservations": 264836,
+        "variables": 8,
+        "cacheKey": "0D1DA8F5",
+        "object": "QVI_transaction_data",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=QVI_transaction_data&cache_key=0D1DA8F5&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 7957702707510404206,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1606433611518,
+    "read_only": false,
+    "read_only_alternatives": []
+}
